@@ -78,7 +78,7 @@ Note that a `git fetch upstream` followed by a `git merge upstream/some_branch` 
 
    <div class="lesson-note lesson-note--critical" markdown="1">
 
-   #### Don't open unnecessary PRs
+   #### Don't open unnecessary PRs!
 
    **If you have not been assigned an issue to work on, stop here.** Do not open a test/practice PR, and any such PRs will be treated as spam and closed by a maintainer without review.
 
